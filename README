@@ -2,5 +2,5 @@ INSTALL:
     to use this vim plugin, just put it under ~/.vim/plugin
 USAGE:
     * shift-right / shift-left will move the cursor right / left  
-    * if you have not press any key for 1 Second since the BinMove started, then BinMove reset
+    * if you have not pressed any key for 1 Second since the BinMove started, then BinMove reset
     
